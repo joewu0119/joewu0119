@@ -18,11 +18,11 @@ Key Features: Faster boot times and data transfer speeds, more durable due to la
 Definition: A portable storage device that connects via USB port, used for transferring and storing data.
 Key Features: Available in various capacities, easy to use and carry.
 
-＃6. Network
+＃　6. Network
 Definition: A system that connects computers and devices, allowing for data exchange and communication.
 Key Features: Can be wired (Ethernet) or wireless (Wi-Fi), enables internet access and file sharing.
 
-#7. I/O (Input/Output)
+#　7. I/O (Input/Output)
 Definition: Refers to the communication between a computer and the external world, including input devices (like keyboards and mice) and output devices (like monitors and printers).
 Key Features: Facilitates user interaction with the computer.
 
