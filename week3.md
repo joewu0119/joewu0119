@@ -71,3 +71,11 @@ Storage Capacity: E-readers can store thousands of e-books, allowing users to ca
 Built-in Features: Many e-readers come with features like adjustable font sizes, built-in dictionaries, and note-taking capabilities.
 Connectivity: They often support Wi-Fi or cellular connections for downloading books and accessing online libraries.
 E-readers are popular among avid readers for their convenience and comfort, making it easy to enjoy books without the bulk of physical copies.
+
+
+
+![image](https://github.com/user-attachments/assets/780f4dc6-84c5-4010-99d7-7cb499059427)
+
+
+![image](https://github.com/user-attachments/assets/26170f7d-79db-4941-8976-c6a45a9face5)
+
